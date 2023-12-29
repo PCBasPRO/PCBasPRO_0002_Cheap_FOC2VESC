@@ -28,10 +28,10 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 - RAW PCB trace of 6mm, arround 16A max @delta 40ºC
   - By apply solder past will [decrease the resistance in 50%](https://www.youtube.com/watch?v=L9q5vwCESEQ) so can go for 32A
   - By apply [5*3mm copper](https://pt.aliexpress.com/item/1005002120776637.html?spm=a2g0o.productlist.main.5.79f550abtxXGGP&algo_pvid=89dc8ee5-5a69-4b70-b033-81fb0f95cf3f&algo_exp_id=89dc8ee5-5a69-4b70-b033-81fb0f95cf3f-2&pdp_npi=4%40dis%21EUR%2131.46%2123.6%21%21%2134.17%21%21%402103010b17038034248783515ec46c%2112000032430582895%21sea%21PT%21181591003%21&curPageLogUid=vuNuAm37cAhX) [will add 190A](https://circuitcalculator.com/wordpress/2006/01/31/pcb-trace-width-calculator/)
-  - Now if we consider the 3 parallel of the iqual resistors we will have 1/3 (something between 66%-50% not the 50% as before) so I expect more then 190A already!!! so go crazy...
+  - Now if we consider the 3 parallel of the iqual resistors we will have 1/3 (something between 66%-50% not the 50% as before) so I expect more then 190A already!!! So go crazy!!!!
   - We can use this area to solder a [copper heatshink](https://pt.aliexpress.com/item/1005001757382767.html?spm=a2g0o.detail.0.0.3c9edHXJdHXJNr&mp=1&gatewayAdapt=glo2bra) to make 2 in 1
 - 2 Connectors XT-90 100A*2=200A
-- Mosfet 100V 268A@100ºC
+- Mosfet 100V 268A@100ºC dont forguet the [heatsink](https://pt.aliexpress.com/item/1005003852083731.html?spm=a2g0o.home.0.0.25901c91u1EahD&mp=1&gatewayAdapt=glo2bra)
 
   
 
@@ -53,17 +53,6 @@ TOP:
 
 
 Bottom:
-
-
-
-### **Ideas**
-
--  for rail (2:1): 
-https://pt.aliexpress.com/item/1005001757382767.html?spm=a2g0o.detail.0.0.3c9edHXJdHXJNr&mp=1&gatewayAdapt=glo2bra
-https://pt.aliexpress.com/item/1005002120776637.html?spm=a2g0o.productlist.main.5.79f550abtxXGGP&algo_pvid=89dc8ee5-5a69-4b70-b033-81fb0f95cf3f&algo_exp_id=89dc8ee5-5a69-4b70-b033-81fb0f95cf3f-2&pdp_npi=4%40dis%21EUR%2131.46%2123.6%21%21%2134.17%21%21%402103010b17038034248783515ec46c%2112000032430582895%21sea%21PT%21181591003%21&curPageLogUid=vuNuAm37cAhX
-
-- heatsink example:
-https://pt.aliexpress.com/item/1005003852083731.html?spm=a2g0o.home.0.0.25901c91u1EahD&mp=1&gatewayAdapt=glo2bra
 
 
 ### **Acknowledgements**
