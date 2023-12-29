@@ -1,7 +1,7 @@
 # PCBasPRO_0002_Cheap_FOC2VESC
 The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPCB parts. Ready for VESC6 up to 100V/200A design with individual gate drivers for all three phases. It is powered by an STM32F405 CPU and BLE WT51822_S4AT Capable of running Field Oriented Control at high power/voltages.
 
-# **NOTE: Ongoing updates on text description, PCB and Schematic**
+## **NOTE: Ongoing updates on text description, PCB and Schematic**
 
 
 ### **Features**
@@ -31,8 +31,8 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
   - Now if we consider the 3 parallel of the iqual resistors we will have 1/3 (something between 66%-50% not the 50% as before) so I expect more then 190A already!!! So go crazy!!!!
   - We can use this area to solder a [copper heatshink](https://pt.aliexpress.com/item/1005001757382767.html?spm=a2g0o.detail.0.0.3c9edHXJdHXJNr&mp=1&gatewayAdapt=glo2bra) to make 2 in 1
 - 2 Connectors XT-90 100A*2=200A
-- Mosfet 100V 268A@100ºC dont forguet the [heatsink](https://pt.aliexpress.com/item/1005003852083731.html?spm=a2g0o.home.0.0.25901c91u1EahD&mp=1&gatewayAdapt=glo2bra)
-
+- Mosfet 100V 268A@100ºC dont forget the [heatsink](https://pt.aliexpress.com/item/1005003852083731.html?spm=a2g0o.home.0.0.25901c91u1EahD&mp=1&gatewayAdapt=glo2bra) and the follow info:
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_23h52_00.png)
   
 
 ### **My next steps**
@@ -41,7 +41,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 - Re-calculate all power and current, from footprint and traces point of view
 - Evaluate ESP32...
 - update PCB with privious topics.
-- Evaluate the CAN connection to have a dual motor control in 100x100 board (really cheap at JLCPCB)
+- Evaluate the CAN connection to have a dual motor control in 100x100mm board (really cheap at JLCPCB)
 - Get some people interested in Buy/testing the dual motor control (no good material at home for that)
 - Start conversations with VESC tool or set firmware
 - Pending from the selled test samples a case creations in aluminium
@@ -50,14 +50,14 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 ### **PCB Status**
 
 TOP: 
-
-
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h43_59.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h47_45.png)
 Bottom:
-
-
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h44_15.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h48_12.png)
 ### **Acknowledgements**
 
-This PCB is a convination of ideas/work of the follow projects (with some extras from my side):
+This PCB is a combination of some ideas/work of the follow projects:
 
 - https://github.com/shamansystems/Cheap-FOCer-2
 - https://github.com/nordstream3/FOC/blob/main/README.md
