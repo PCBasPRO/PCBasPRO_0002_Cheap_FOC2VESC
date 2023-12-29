@@ -4,7 +4,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 ## **NOTE: Ongoing updates on text description, PCB and Schematic**
 
 
-### **Features**
+### **Features:**
 
 -  100V/200A continuous rating (RAW recomendation 84V/16A )
 -   22s Battery voltage rating (Safe for 6S to 21S LIP0/Lllon, Voltage spikes may not exceed 100V)
@@ -22,7 +22,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 -   Extra ports connector (no unconnected pins on uC)
 
 
-### **Current limitations**
+### **Current limitations:**
 
 - Shunt resistor is 12W,  arround 245A max;
 - RAW PCB trace of 6mm, arround 16A max @delta 40ºC
@@ -35,7 +35,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_23h52_00.png)
   
 
-### **My next steps**
+### **My next steps:**
 
 - Impedance match to stack-up
 - Re-calculate all power and current, from footprint and traces point of view
@@ -47,7 +47,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 - Pending from the selled test samples a case creations in aluminium
 
 
-### **PCB Status**
+### **PCB Status:**
 
 TOP: 
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h43_59.png)
@@ -55,7 +55,7 @@ TOP:
 Bottom:
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h44_15.png)
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h48_12.png)
-### **Acknowledgements**
+### **Acknowledgements:**
 
 This PCB is a combination of some ideas/work of the follow projects:
 
@@ -63,6 +63,6 @@ This PCB is a combination of some ideas/work of the follow projects:
 - https://github.com/nordstream3/FOC/blob/main/README.md
 - https://forum.esk8.news/t/prototyping-high-power-vesc-6-4-variant/32036/66
 
-### **Donate**
+### **Donate:**
 
 If you find this project useful and would like to support bread-and-butter for very time consuming development and maintenance, you can [donate](https://www.paypal.com/donate/?hosted_button_id=CDQSZKZBMZTBL)  to the creator via Paypal.
