@@ -32,8 +32,8 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
   - We can use this area to solder a [copper heatshink](https://pt.aliexpress.com/item/1005001757382767.html?spm=a2g0o.detail.0.0.3c9edHXJdHXJNr&mp=1&gatewayAdapt=glo2bra) to make 2 in 1
 - 2 Connectors XT-90 100A*2=200A
 - Mosfet 100V 268A@100ºC dont forget the [heatsink](https://pt.aliexpress.com/item/1005003852083731.html?spm=a2g0o.home.0.0.25901c91u1EahD&mp=1&gatewayAdapt=glo2bra) and the follow info:
-![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_23h52_00.png)
-  
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/00_Pics/2023-12-28_23h52_00.png)
+
 
 ### **My next steps:**
 
@@ -50,11 +50,11 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 ### **PCB Status:**
 
 TOP: 
-![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h43_59.png)
-![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h47_45.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/00_Pics/2023-12-28_15h43_59.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/00_Pics/2023-12-28_15h47_45.png)
 Bottom:
-![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h44_15.png)
-![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/2023-12-28_15h48_12.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/00_Pics/2023-12-28_15h44_15.png)
+![Image](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC/blob/main/00_Pics/2023-12-28_15h48_12.png)
 ### **Acknowledgements:**
 
 This PCB is a combination of some ideas/work of the follow projects:
