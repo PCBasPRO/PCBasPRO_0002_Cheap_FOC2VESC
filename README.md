@@ -62,6 +62,7 @@ This PCB is a combination of some ideas/work of the follow projects:
 - https://github.com/shamansystems/Cheap-FOCer-2
 - https://github.com/nordstream3/FOC/blob/main/README.md
 - https://forum.esk8.news/t/prototyping-high-power-vesc-6-4-variant/32036/66
+- https://vesc-project.com/vesc_tool
 
 ### **Donate:**
 
