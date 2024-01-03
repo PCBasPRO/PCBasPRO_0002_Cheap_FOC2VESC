@@ -37,9 +37,9 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 
 ### **My next steps:**
 
+- Evaluate ESP32...
 - Impedance match to stack-up
 - Re-calculate all power and current, from footprint and traces point of view
-- Evaluate ESP32...
 - update PCB with privious topics.
 - Evaluate the CAN connection to have a dual motor control in 100x100mm board (really cheap at JLCPCB)
 - Get some people interested in Buy/testing the dual motor control (no material at home for that)
