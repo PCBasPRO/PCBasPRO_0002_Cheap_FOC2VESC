@@ -37,7 +37,7 @@ The PCBasPRO_0002 is an 2*motor controller board in development based on a JLCPC
 
 ### **My next steps:**
 
-- Evaluate ESP32...
+- [Evaluate ESP32...](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS)
 - Impedance match to stack-up
 - Re-calculate all power and current, from footprint and traces point of view
 - update PCB with privious topics.
